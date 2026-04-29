@@ -1,4 +1,4 @@
-<p align = "center"><img src="logo/organomar.jpg" alt="" width="500" height="500"/></p>
+<p align = "center"><img src="logo/organomar.png" alt="" width="500" height="500"/></p>
 <p align = "center"><a href="https://www.ufpe.br/organomar">https://www.ufpe.br/organomar</a></p>
 <br>
 <br>
