@@ -7,7 +7,7 @@
 
 # Introduction
 >>
->><div style="text-align: justify">This repository was created to support the scientific manuscript "<em>Two Decades of Sedimentation and Contemporary Urban Contamination in Brazilian Tropical Coastal Reefs</em>". The manuscript was submitted to the journal<a href="https://www.sciencedirect.com/journal/marine-pollution-bulletin"> Marine Pollution Bulletin</a> by Thales J. Vidal<sup>a1*</sup>, Bruno V. M. da Costa<sup>a2</sup>, Eduardo C. de Macêdo<sup>b3</sup>, Eliete Zanardi-Lamardo<sup>a4</sup>, Rodrigo F. Bastos<sup>c5</sup>, Roxanny H. de Arruda-Santos<sup>a6</sup>, Nelson A. Gouveia<sup>a7</sup>, Mauro Maida<sup>a8</sup>, Marius N. Muller<sup>a9</sup>, Roberto L. Barcellos<sup>a10</sup>, Manuel J. Flores-Montes<sup>a11</sup>, André L. S. Campos<sup>a12</sup>, Beatrice P. Ferreira<sup>a13</sup>.</div><br>
+>><p style="text-align: justify">This repository was created to support the scientific manuscript "<em>Two Decades of Sedimentation and Contemporary Urban Contamination in Brazilian Tropical Coastal Reefs</em>". The manuscript was submitted to the journal<a href="https://www.sciencedirect.com/journal/marine-pollution-bulletin"> Marine Pollution Bulletin</a> by Thales J. Vidal<sup>a1*</sup>, Bruno V. M. da Costa<sup>a2</sup>, Eduardo C. de Macêdo<sup>b3</sup>, Eliete Zanardi-Lamardo<sup>a4</sup>, Rodrigo F. Bastos<sup>c5</sup>, Roxanny H. de Arruda-Santos<sup>a6</sup>, Nelson A. Gouveia<sup>a7</sup>, Mauro Maida<sup>a8</sup>, Marius N. Muller<sup>a9</sup>, Roberto L. Barcellos<sup>a10</sup>, Manuel J. Flores-Montes<sup>a11</sup>, André L. S. Campos<sup>a12</sup>, Beatrice P. Ferreira<sup>a13</sup>.</p><br>
 >>
 >><sup>a</sup>Department of Oceanography, Federal University of Pernambuco, Recife, Brazil<br>
 >><sup>b</sup>Chico Mendes Institute for Biodiversity Conservation (ICMBio), Recife, Brazil<br>
@@ -36,7 +36,7 @@
 
 # Figures and DataFranes
 >>
->><div style="text-align: justify">Figures 1, 2, 3, 4, 5, 6 and 7, and Dataframes A and B can be visualized in the <a href="https://github.com/bvmcosta/article_tamandare_reef_complex_contamination/blob/main/supplementary_material.ipynb">supplementary_material.ipynb file</a>.</div><br>
+>><p style="text-align: justify">Figures 1, 2, 3, 4, 5, 6 and 7, and Dataframes A and B can be visualized in the <a href="https://github.com/bvmcosta/article_tamandare_reef_complex_contamination/blob/main/supplementary_material.ipynb">supplementary_material.ipynb file</a>.</p><br>
 
 # References
 >>
