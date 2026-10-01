@@ -34,9 +34,9 @@
 >> - Git
 >> - Jupyter Notebook
 
-# Figures and DataFranes
+# Figures and DataFrames
 >>
->><p style="text-align: justify">Figures 1, 2, 3, 4, 5, 6 and 7, and Dataframes A and B can be visualized in the <a href="https://github.com/bvmcosta/article_tamandare_reef_complex_contamination/blob/main/supplementary_material.ipynb">supplementary_material.ipynb file</a>.</p><br>
+>><p style="text-align: justify">Figures (1 to 7), Photographs, Videos and Dataframes (A, B) can be visualized in the <a href="https://github.com/bvmcosta/article_tamandare_reef_complex_contamination/blob/main/supplementary_material.ipynb">supplementary_material.ipynb file</a>.</p><br>
 
 # References
 >>
