@@ -15,11 +15,11 @@
 >>
 >> 1* Corresponding author; thales.vidal@ufpe.br; thalesvidal99@gmail.com; <a href="http://lattes.cnpq.br/8474180698054541">Currículo <em>Lattes</em></a>; <a href="https://orcid.org/0009-0002-2432-5291">ORCID</em></a><br>
 >> 2 bruno.vmcosta@ufpe.br; <a href="http://lattes.cnpq.br/2290636648098144">Currículo <em>Lattes</em></a>; <a href="https://orcid.org/0000-0003-4481-4236">ORCID</a><br>
->> 3 eduardocmacedo@gmail.com; <a href="http://lattes.cnpq.br/5951786133491617">Currículo <em>Lattes</em></a>; <a href="">ORCID</em></a><br>
+>> 3 eduardocmacedo@gmail.com; <a href="http://lattes.cnpq.br/5951786133491617">Currículo <em>Lattes</em></a>; <a href="https://orcid.org/0009-0001-1477-6219">ORCID</em></a><br>
 >> 4 eliete.zanardi@ufpe.br; <a href="http://lattes.cnpq.br/2702172869881870">Currículo <em>Lattes</em></a>; <a href="https://orcid.org/0000-0003-3546-6479">ORCID</a><br>
 >> 5 bio.rfbastos@gmail.com; <a href="http://lattes.cnpq.br/7712423378155474">Currículo <em>Lattes</em></a>; <a href="https://orcid.org/0000-0002-9692-4237">ORCID</em></a><br>
 >> 6 roxanny.helen@ufpe.br; <a href="http://lattes.cnpq.br/5060083607081631">Currículo <em>Lattes</em></a>; <a href="https://orcid.org/0000-0002-8649-2370">ORCID</em></a><br>
->> 7 nelsongov89@gmail.com; <a href="http://lattes.cnpq.br/2893215729403643">Currículo <em>Lattes</em></a>; <a href="https://orcid.org/0000-0003-4481-4236">ORCID</em></a><br>
+>> 7 nelsongov89@gmail.com; <a href="http://lattes.cnpq.br/2893215729403643">Currículo <em>Lattes</em></a>; <a href="https://orcid.org/0000-0002-3868-1919">ORCID</em></a><br>
 >> 8 mauro.maida@ufpe.br; <a href="http://lattes.cnpq.br/9274599498305354">Currículo <em>Lattes</em></a>; <a href="https://orcid.org/0000-0002-1136-8631">ORCID</em></a><br>
 >> 9 mariusnmuller@gmail.com; <a href="">Currículo <em>Lattes</em></a>; <a href="https://orcid.org/0000-0003-4765-3933">ORCID</em></a><br>
 >>10 roberto.barcellos@ufpe.br; <a href="http://lattes.cnpq.br/1440986556375674">Currículo <em>Lattes</em></a>; <a href="https://orcid.org/0000-0003-1304-4603">ORCID</em></a><br>
